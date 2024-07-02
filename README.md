@@ -20,3 +20,10 @@ Key Activities
 2. Average grade
 3. Highest grade
 4. Lowest grade
+
+
+   ![Screenshot 2024-07-02 193634](https://github.com/vyshnaviu/CODTECH-Task2/assets/135738125/8e71d3d8-dba6-4a63-8b22-4d3cba37fa9e)
+
+   ![Screenshot 2024-07-02 193552](https://github.com/vyshnaviu/CODTECH-Task2/assets/135738125/04cfdd46-8cc4-46cd-aa62-12cde7a59a1d)
+
+
